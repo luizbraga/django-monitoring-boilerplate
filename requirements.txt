@@ -1,0 +1,11 @@
+# Django
+Django==2.1.1
+dj-database-url==0.5.0
+python-decouple==3.1
+
+# Sentry
+raven==6.9.0
+
+# Celery
+celery==4.2.1
+flower==0.9.2
